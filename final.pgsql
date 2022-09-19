@@ -5,6 +5,7 @@ CREATE TABLE Students (
     Department Varchar(20),
     Primary Key (StudentID)
 );
+
 CREATE TABLE Catalogue (
     CourseID Varchar(20),
     Slot Varchar(20),
